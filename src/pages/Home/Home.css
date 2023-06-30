@@ -1,0 +1,16 @@
+.top {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 42px;
+}
+
+.sectionTop {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 9px;
+    padding: 25px 0px;
+}

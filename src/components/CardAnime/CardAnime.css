@@ -1,0 +1,18 @@
+.card {
+    margin-top: 20px;
+    padding: 30px;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 19%;
+}
+
+.imgAnime {
+    height: 22rem;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.title {
+    color: white;
+    font-size: 15px;
+}

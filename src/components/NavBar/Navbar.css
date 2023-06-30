@@ -1,0 +1,15 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #000000;
+    gap: 10px;
+}
+
+#item-navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 85px;
+}

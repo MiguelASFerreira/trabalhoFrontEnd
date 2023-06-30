@@ -1,0 +1,28 @@
+.manga {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.details {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 50%;
+}
+
+.generos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.genre {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+}

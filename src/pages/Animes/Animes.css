@@ -1,0 +1,28 @@
+.sectionAnime {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 9px;
+    padding: 25px 0px;
+}
+
+.paginacao {
+    display: flex;
+    margin: 20px 0px;
+    gap: 10px;
+}
+
+.paginacao button {
+    padding: 10px;
+    color: white;
+    background-color: rebeccapurple;
+}
+
+.paginacao h3 {
+    border: 2px solid white;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}

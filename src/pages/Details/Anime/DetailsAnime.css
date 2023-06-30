@@ -1,0 +1,39 @@
+.anime {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: white;
+}
+
+.title {
+    margin-bottom: 5px;
+}
+
+.details {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+.generos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.genre {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.characters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 38px;
+    margin: 0px 50px;
+}
